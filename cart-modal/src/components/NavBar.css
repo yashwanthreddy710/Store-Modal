@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color:  #868c30;
+    color: white;
+  }
+  
+  .name {
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .cart-button {
+    background-color: white;
+    color:#868c30;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+  }
+  
+  .cart-button:hover {
+    background-color: #ebe6e6;
+  }
+  
